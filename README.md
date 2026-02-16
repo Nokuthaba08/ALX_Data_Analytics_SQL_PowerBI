@@ -12,6 +12,7 @@
 - [References](#references)
 
   ### Project Overview
+<img width="1325" height="702" alt="image" src="https://github.com/user-attachments/assets/b178543f-fa7a-4253-baeb-29fee5b76d26" />
 
   In a world where access to clean water is a fundamental necessity, the region of Maji Ndogo faces significant challenges in ensuring this basic right for its residents. My project embarked on a critical mission to analyze water quality, collection patterns, and infrastructure in Maji Ndogo, with the goal of uncovering insights that could drive transformative change. This comprehensive report delves into the key findings and implications of the analysis, with a focus on improving water access and quality for the community.
 
